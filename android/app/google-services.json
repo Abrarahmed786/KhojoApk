@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "199106420223",
+    "project_id": "khojonow",
+    "storage_bucket": "khojonow.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:199106420223:android:d81042f0d74021cf9e1bca",
+        "android_client_info": {
+          "package_name": "com.example.khojoapk"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "199106420223-rlqies6q6ia3dleuo1497h96jvsl5bjp.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.khojoapk",
+            "certificate_hash": "289ea8c099a34c4eadbcd83ceda78335a0840849"
+          }
+        },
+        {
+          "client_id": "199106420223-98rdfrplh4qp20uko8oj3rimntmoi88t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDTTvzWpnT_TpFPoVyr0QttiUi8Ser1_fI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "199106420223-98rdfrplh4qp20uko8oj3rimntmoi88t.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
