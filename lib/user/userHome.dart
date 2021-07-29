@@ -126,7 +126,7 @@ class HmUsr extends StatelessWidget {
                         child: Padding(
                           padding: const EdgeInsets.all(8.0),
                           child: Text(
-                            'Hello, User!',
+                            'Hello,' + user.displayName,
                             style: TextStyle(
                                 fontSize: 25,
                                 fontWeight: FontWeight.bold,
